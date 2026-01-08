@@ -8,8 +8,9 @@ class Player
 public:
 
 	Player();
+	~Player();
 
-	void Initialise(Health& playerHealth, int x, int y);
+	void Initialise(int x, int y);
 	void AssignName();
 	std::string GetName();
 	void GetPosition(int& x, int& y);

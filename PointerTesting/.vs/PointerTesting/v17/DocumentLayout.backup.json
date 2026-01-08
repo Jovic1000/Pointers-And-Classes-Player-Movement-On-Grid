@@ -1,24 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "\\\\Moriarty04\\jm22crt$\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\",
+  "WorkspaceRootPath": "C:\\Temp\\PointerTesting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|\\\\Moriarty04\\jm22crt$\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|C:\\Temp\\PointerTesting\\grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|solutionrelative:grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|\\\\Moriarty04\\jm22crt$\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|C:\\Temp\\PointerTesting\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|\\\\Moriarty04\\jm22crt$\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|C:\\Temp\\PointerTesting\\grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|solutionrelative:grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|\\\\Moriarty04\\jm22crt$\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|C:\\Temp\\PointerTesting\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|\\\\Moriarty04\\jm22crt$\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|C:\\Temp\\PointerTesting\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|\\\\Moriarty04\\jm22crt$\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Health.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|C:\\Temp\\PointerTesting\\Health.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|solutionrelative:Health.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|C:\\Temp\\PointerTesting\\Health.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|solutionrelative:Health.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,84 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Player.h",
-              "DocumentMoniker": "\\\\Moriarty04\\jm22crt$\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Player.h",
-              "RelativeDocumentMoniker": "Player.h",
-              "ToolTip": "\\\\Moriarty04\\jm22crt$\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Player.h",
-              "RelativeToolTip": "Player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-08T13:56:39.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Player.cpp",
-              "DocumentMoniker": "\\\\Moriarty04\\jm22crt$\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Player.cpp",
-              "RelativeDocumentMoniker": "Player.cpp",
-              "ToolTip": "\\\\Moriarty04\\jm22crt$\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Player.cpp",
-              "RelativeToolTip": "Player.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-08T13:55:25.222Z",
+              "Title": "grid.h",
+              "DocumentMoniker": "C:\\Temp\\PointerTesting\\grid.h",
+              "RelativeDocumentMoniker": "grid.h",
+              "ToolTip": "C:\\Temp\\PointerTesting\\grid.h*",
+              "RelativeToolTip": "grid.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-08T16:07:18.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Health.cpp",
-              "DocumentMoniker": "\\\\Moriarty04\\jm22crt$\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Health.cpp",
-              "RelativeDocumentMoniker": "Health.cpp",
-              "ToolTip": "\\\\Moriarty04\\jm22crt$\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Health.cpp",
-              "RelativeToolTip": "Health.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-08T13:54:52.311Z",
+              "Title": "Health.h",
+              "DocumentMoniker": "C:\\Temp\\PointerTesting\\Health.h",
+              "RelativeDocumentMoniker": "Health.h",
+              "ToolTip": "C:\\Temp\\PointerTesting\\Health.h",
+              "RelativeToolTip": "Health.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-08T16:07:10.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Temp\\PointerTesting\\Player.h",
+              "RelativeDocumentMoniker": "Player.h",
+              "ToolTip": "C:\\Temp\\PointerTesting\\Player.h*",
+              "RelativeToolTip": "Player.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-08T16:07:10.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Health.cpp",
+              "DocumentMoniker": "C:\\Temp\\PointerTesting\\Health.cpp",
+              "RelativeDocumentMoniker": "Health.cpp",
+              "ToolTip": "C:\\Temp\\PointerTesting\\Health.cpp",
+              "RelativeToolTip": "Health.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-08T16:07:08.852Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "grid.h",
-              "DocumentMoniker": "\\\\Moriarty04\\jm22crt$\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\grid.h",
-              "RelativeDocumentMoniker": "grid.h",
-              "ToolTip": "\\\\Moriarty04\\jm22crt$\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\grid.h",
-              "RelativeToolTip": "grid.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-08T11:47:59.341Z",
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Temp\\PointerTesting\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Temp\\PointerTesting\\main.cpp*",
+              "RelativeToolTip": "main.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-08T16:07:08.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Temp\\PointerTesting\\Player.cpp",
+              "RelativeDocumentMoniker": "Player.cpp",
+              "ToolTip": "C:\\Temp\\PointerTesting\\Player.cpp",
+              "RelativeToolTip": "Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-08T16:07:07.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "grid.cpp",
-              "DocumentMoniker": "\\\\Moriarty04\\jm22crt$\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\grid.cpp",
+              "DocumentMoniker": "C:\\Temp\\PointerTesting\\grid.cpp",
               "RelativeDocumentMoniker": "grid.cpp",
-              "ToolTip": "\\\\Moriarty04\\jm22crt$\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\grid.cpp",
-              "RelativeToolTip": "grid.cpp",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAiwFkAAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Temp\\PointerTesting\\grid.cpp*",
+              "RelativeToolTip": "grid.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-08T11:47:43.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main.cpp",
-              "DocumentMoniker": "\\\\Moriarty04\\jm22crt$\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "\\\\Moriarty04\\jm22crt$\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-08T11:47:34.609Z",
+              "WhenOpened": "2026-01-08T16:07:05.205Z",
               "EditorCaption": ""
             }
           ]

@@ -1,7 +1,7 @@
 #include "Player.h"
 #include "Health.h"
 
-Player::Player() : m_playerHealth(nullptr),
+Player::Player() : m_playerHealth(new Health(5)),
 	m_x(0),
 	m_y(0),
 	m_isDead(false),
@@ -9,9 +9,18 @@ Player::Player() : m_playerHealth(nullptr),
 {
 }
 
-void Player::Initialise(Health& playerHealth, int x, int y)
+Player::~Player()
 {
-	m_playerHealth = &playerHealth;
+	if (m_playerHealth != nullptr)
+	{
+		delete m_playerHealth;
+	}
+
+
+}
+
+void Player::Initialise(int x, int y)
+{
 }
 
 void Player::AssignName()
