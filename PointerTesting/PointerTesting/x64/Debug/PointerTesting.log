@@ -1,0 +1,3 @@
+﻿  Health.cpp
+D:\Portals folders\Documents\Projects\PointerTesting\Health.cpp(11,12): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  PointerTesting.vcxproj -> D:\Portals folders\Documents\Projects\PointerTesting\x64\Debug\PointerTesting.exe
