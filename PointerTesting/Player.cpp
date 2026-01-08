@@ -1,12 +1,12 @@
 #include "Player.h"
 #include "Health.h"
 
-Player::Player()
+Player::Player() : m_playerHealth(nullptr),
+	m_x(0),
+	m_y(0),
+	m_isDead(false),
+	m_name("")
 {
-	m_x = 0;
-	m_y = 0;
-	m_isDead = false;
-	m_name = "";
 }
 
 void Player::Initialise(Health& playerHealth, int x, int y)
