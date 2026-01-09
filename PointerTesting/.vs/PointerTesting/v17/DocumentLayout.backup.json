@@ -1,34 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Temp\\PointerTesting\\",
+  "WorkspaceRootPath": "E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|C:\\Temp\\PointerTesting\\grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|solutionrelative:grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Event.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|solutionrelative:Event.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|C:\\Temp\\PointerTesting\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|solutionrelative:Event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|C:\\Temp\\PointerTesting\\grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|solutionrelative:grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Health.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|solutionrelative:Health.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|C:\\Temp\\PointerTesting\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|solutionrelative:Weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|C:\\Temp\\PointerTesting\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|solutionrelative:Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|C:\\Temp\\PointerTesting\\Health.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|solutionrelative:Health.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|C:\\Temp\\PointerTesting\\Health.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|solutionrelative:Health.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Health.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C1F7F44-8443-421F-B026-3F89E3CA4C8C}|PointerTesting.vcxproj|solutionrelative:Health.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,95 +46,125 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "grid.h",
-              "DocumentMoniker": "C:\\Temp\\PointerTesting\\grid.h",
-              "RelativeDocumentMoniker": "grid.h",
-              "ToolTip": "C:\\Temp\\PointerTesting\\grid.h*",
-              "RelativeToolTip": "grid.h*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Player.h",
+              "DocumentMoniker": "E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Player.h",
+              "RelativeDocumentMoniker": "Player.h",
+              "ToolTip": "E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Player.h",
+              "RelativeToolTip": "Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-08T16:07:18.115Z",
+              "WhenOpened": "2026-01-08T16:07:10.278Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Health.h",
+              "DocumentMoniker": "E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Health.h",
+              "RelativeDocumentMoniker": "Health.h",
+              "ToolTip": "E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Health.h",
+              "RelativeToolTip": "Health.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-08T16:07:10.789Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Event.cpp",
+              "DocumentMoniker": "E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Event.cpp",
+              "RelativeDocumentMoniker": "Event.cpp",
+              "ToolTip": "E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Event.cpp",
+              "RelativeToolTip": "Event.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-09T13:05:44.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Event.h",
+              "DocumentMoniker": "E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Event.h",
+              "RelativeDocumentMoniker": "Event.h",
+              "ToolTip": "E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Event.h",
+              "RelativeToolTip": "Event.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-09T13:02:41.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weapon.cpp",
+              "DocumentMoniker": "E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Weapon.cpp",
+              "RelativeDocumentMoniker": "Weapon.cpp",
+              "ToolTip": "E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Weapon.cpp",
+              "RelativeToolTip": "Weapon.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-09T11:51:39.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weapon.h",
+              "DocumentMoniker": "E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Weapon.h",
+              "RelativeDocumentMoniker": "Weapon.h",
+              "ToolTip": "E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Weapon.h",
+              "RelativeToolTip": "Weapon.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-09T11:51:07.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Health.cpp",
+              "DocumentMoniker": "E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Health.cpp",
+              "RelativeDocumentMoniker": "Health.cpp",
+              "ToolTip": "E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Health.cpp",
+              "RelativeToolTip": "Health.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-08T16:07:08.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Health.h",
-              "DocumentMoniker": "C:\\Temp\\PointerTesting\\Health.h",
-              "RelativeDocumentMoniker": "Health.h",
-              "ToolTip": "C:\\Temp\\PointerTesting\\Health.h",
-              "RelativeToolTip": "Health.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-08T16:07:10.789Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Player.h",
-              "DocumentMoniker": "C:\\Temp\\PointerTesting\\Player.h",
-              "RelativeDocumentMoniker": "Player.h",
-              "ToolTip": "C:\\Temp\\PointerTesting\\Player.h*",
-              "RelativeToolTip": "Player.h*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-08T16:07:10.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Health.cpp",
-              "DocumentMoniker": "C:\\Temp\\PointerTesting\\Health.cpp",
-              "RelativeDocumentMoniker": "Health.cpp",
-              "ToolTip": "C:\\Temp\\PointerTesting\\Health.cpp",
-              "RelativeToolTip": "Health.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-08T16:07:08.852Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Temp\\PointerTesting\\main.cpp",
+              "DocumentMoniker": "E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Temp\\PointerTesting\\main.cpp*",
-              "RelativeToolTip": "main.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ToolTip": "E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-08T16:07:08.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Player.cpp",
-              "DocumentMoniker": "C:\\Temp\\PointerTesting\\Player.cpp",
+              "DocumentMoniker": "E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Player.cpp",
               "RelativeDocumentMoniker": "Player.cpp",
-              "ToolTip": "C:\\Temp\\PointerTesting\\Player.cpp",
+              "ToolTip": "E:\\GitHub Clone Repository\\Pointers-And-Classes-Player-Movement-On-Grid\\PointerTesting\\Player.cpp",
               "RelativeToolTip": "Player.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAApwE0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-08T16:07:07.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "grid.cpp",
-              "DocumentMoniker": "C:\\Temp\\PointerTesting\\grid.cpp",
-              "RelativeDocumentMoniker": "grid.cpp",
-              "ToolTip": "C:\\Temp\\PointerTesting\\grid.cpp*",
-              "RelativeToolTip": "grid.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-08T16:07:05.205Z",
               "EditorCaption": ""
             }
           ]

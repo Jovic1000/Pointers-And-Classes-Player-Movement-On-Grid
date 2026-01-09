@@ -1,11 +1,8 @@
 #include "Player.h"
 #include "Health.h"
+#include "Weapon.h"
 
-Player::Player() : m_playerHealth(new Health(5)),
-	m_x(0),
-	m_y(0),
-	m_isDead(false),
-	m_name("")
+Player::Player() : m_weapon(new Weapon("Sword", 10)), m_playerHealth(new Health(100)), m_x(0), m_y(0), m_isDead(false), m_name("")
 {
 }
 
@@ -16,12 +13,13 @@ Player::~Player()
 		delete m_playerHealth;
 	}
 
-
+	if (m_weapon != nullptr)
+	{
+		delete m_weapon;
+	}
 }
 
-void Player::Initialise(int x, int y)
-{
-}
+
 
 void Player::AssignName()
 {
@@ -33,6 +31,7 @@ std::string Player::GetName()
 {
 	return m_name;
 }
+
 
 void Player::GetPosition(int& x, int& y)
 {
@@ -70,4 +69,16 @@ void Player::TakeDamage(int playerDamage)
 void Player::ShowHealth()
 {
 	m_playerHealth->ShowHealth(m_playerHealth->GetHealth());
+}
+
+int Player::GetAttack(std::string weaponName)
+{
+	weaponName = m_weapon->GetName();
+
+	return m_weapon->GetDamage();
+}
+
+void Player::SetWeapon(Weapon* weapon)
+{
+	m_weapon = weapon;
 }

@@ -2,6 +2,7 @@
 #include <iostream>
 
 class Health;
+class Weapon;
 
 class Player
 {
@@ -10,7 +11,8 @@ public:
 	Player();
 	~Player();
 
-	void Initialise(int x, int y);
+	int GetAttack(std::string weaponName);
+	void SetWeapon(Weapon* weapon);
 	void AssignName();
 	std::string GetName();
 	void GetPosition(int& x, int& y);
@@ -21,6 +23,7 @@ public:
 	void ShowHealth();
 
 private:
+	Weapon* m_weapon;
 	Health* m_playerHealth;
 	int m_y;
 	int m_x;

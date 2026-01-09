@@ -3,7 +3,7 @@ class Health
 {
 public:
 
-	Health(int health);
+	Health(int currentHealth);
 
 	int GetHealth();
 	void ShowHealth(int lives);

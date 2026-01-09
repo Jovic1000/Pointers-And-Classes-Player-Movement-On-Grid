@@ -1,9 +1,8 @@
 #include "Health.h"
 #include <iostream>
 
-Health::Health(int currentHealth) 
+Health::Health(int currentHealth) : m_currentHealth(100)
 {
-    m_currentHealth = 5;
 }
 
 int Health::GetHealth()
@@ -16,10 +15,11 @@ void Health::ShowHealth(int lives)
     std::cout << "Lives: ";
 
 
-    while (lives)
+    while (lives > 0)
     {
+    
         std::cout << "!";
-        lives--;
+        lives = lives - 10;
 
         if (!lives)
         {
