@@ -1,11 +1,16 @@
 #include <iostream>
 #include "Player.h"
+#include "Event.h"
+#include "Health.h"
+
 
 
 int main()
 {
 	
+	Event* event{};
 	Player player;
+
 	player.AssignName();
 	player.ShowHealth();
 	
@@ -16,6 +21,24 @@ int main()
 
 	player.TakeDamage(25);
 	player.ShowHealth();
+
+
+	event->Initialise(&player);
+	
+	while (!player.GetIsDead() && !event->IsComplete())
+	{
+		event->Run();
+		delete event;
+    }
+
+	
+
+
+
+
+
+
+
 	return 0;
 }
 

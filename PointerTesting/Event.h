@@ -6,7 +6,7 @@ public:
 
 	bool IsComplete();
 	void Run();
-	void Initialise(Player*);
+	void Initialise(Player* player);
 
 	Event();
 private:
