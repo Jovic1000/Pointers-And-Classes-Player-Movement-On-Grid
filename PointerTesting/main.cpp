@@ -8,7 +8,7 @@
 int main()
 {
 	
-	Event* event{};
+	Event* event(new Event);
 	Player player;
 
 	player.AssignName();
@@ -23,12 +23,17 @@ int main()
 	player.ShowHealth();
 
 
+
+
+
 	event->Initialise(&player);
 	
+
+
+
 	while (!player.GetIsDead() && !event->IsComplete())
 	{
 		event->Run();
-		delete event;
     }
 
 	
@@ -36,7 +41,7 @@ int main()
 
 
 
-
+	delete event;
 
 
 	return 0;
