@@ -5,9 +5,10 @@
 
 
 
+
 int main()
 {
-	
+	srand(time(NULL));
 	Event* event(new Event);
 	Player player;
 
@@ -19,27 +20,33 @@ int main()
 
 	std::cout << player.GetName() << " Has Equiped A " << weaponName << " And Deals " << weaponDamage << " Damage!" << std::endl;
 
-	player.TakeDamage(25);
-	player.ShowHealth();
+	
 
 	
 
 	Player* player2 = new Player;
 
-	event->Initialise(player2);
 	
+	
+	int rounds = 0;
 
-
-
-	while (!player.GetIsDead() && !event->IsComplete())
+	while (!player.GetIsDead())
 	{
+		system("cls");
+
+		rounds++;
+			
+		event->Initialise(player2, rounds);
+
+			
+
 		event->Run();
-    }
 
+		system("pause");
+
+	}
 	
-
-
-
+	std::cout << "Rounds Complited: " << rounds;
 
 	delete event;
 

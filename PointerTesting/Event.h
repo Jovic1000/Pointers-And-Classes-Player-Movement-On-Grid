@@ -6,7 +6,8 @@ public:
 
 	bool IsComplete();
 	void Run();
-	void Initialise(Player* player);
+	void Initialise(Player* player, int count);
+	
 
 	Event();
 private:
@@ -16,5 +17,6 @@ private:
 	int m_state;
 	int m_currentEnemyHealth;
 	int m_currentEnemyDamage;
+	int m_switchCounter;
 };
 

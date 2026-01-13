@@ -14,22 +14,15 @@ void Health::ShowHealth(int lives)
 {
     std::cout << "Lives: ";
 
-
     while (lives > 0)
     {
-    
         std::cout << "!";
         lives = lives - 10;
-
-        if (!lives)
-        {
-            std::cout << std::endl;
-        }
     }
+    std::cout << std::endl;
 }
 
 void Health::TakeDamage(int damage)
 {
-    std::cout << "Damage taken: " << damage << std::endl;
     m_currentHealth = m_currentHealth - damage;
 }
