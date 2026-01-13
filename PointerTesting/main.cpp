@@ -22,11 +22,11 @@ int main()
 	player.TakeDamage(25);
 	player.ShowHealth();
 
+	
 
+	Player* player2 = new Player;
 
-
-
-	event->Initialise(&player);
+	event->Initialise(player2);
 	
 
 

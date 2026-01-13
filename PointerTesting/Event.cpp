@@ -4,7 +4,7 @@
 #include "Weapon.h"
 
 
-Event::Event() : m_currentEnemyDamage(0), m_currentEnemyHealth(0), m_isComplete(false), m_player(m_player), m_state(0)
+Event::Event() : m_currentEnemyDamage(0), m_currentEnemyHealth(0), m_isComplete(false), m_player(), m_state(0)
 {
 }
 
@@ -112,7 +112,7 @@ void Event::Run()
 void Event::Initialise(Player* player)
 {
     m_state = rand() % 3;
-    player = m_player;
+    m_player = player;
 
     switch (m_state)
     {
