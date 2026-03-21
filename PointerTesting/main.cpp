@@ -8,37 +8,34 @@
 
 int main()
 {
-	srand(time(NULL));
+	{
+		srand(time(NULL));
+		Event* event(new Event);
+		Player player;
+
+		player.AssignName();
+		player.ShowHealth();
+
+		std::string weaponName = "Quack";
+		int weaponDamage = player.GetAttack(weaponName);
+
+		std::cout << player.GetName() << " Has Equiped A " << weaponName << " And Deals " << weaponDamage << " Damage!" << std::endl;
+
+		delete event;
+	}
+	
 	Event* event(new Event);
-	Player player;
-
-	player.AssignName();
-	player.ShowHealth();
-	
-	std::string weaponName = "Quack";
-	int weaponDamage = player.GetAttack(weaponName);
-
-	std::cout << player.GetName() << " Has Equiped A " << weaponName << " And Deals " << weaponDamage << " Damage!" << std::endl;
-
-	
-
-	
-
-	Player* player2 = new Player;
-
-	
+	Player* player = new Player;
 	
 	int rounds = 0;
 
-	while (!player.GetIsDead())
+	while (!player->GetIsDead())
 	{
 		system("cls");
 
 		rounds++;
 			
-		event->Initialise(player2, rounds);
-
-			
+		event->Initialise(player, rounds);
 
 		event->Run();
 

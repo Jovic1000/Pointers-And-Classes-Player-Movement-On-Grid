@@ -139,7 +139,7 @@ void Event::Run()
 void Event::Initialise(Player* player, int count)
 {
     m_state = rand() % 3;
-    
+    m_player = player;
 
     if (m_switchCounter == m_state)
     {
@@ -153,9 +153,9 @@ void Event::Initialise(Player* player, int count)
     m_switchCounter = m_state;
 
     m_isComplete = false;
-    m_player = player;
+    
 
-    switch (m_state)
+    switch (0)
     {
      case(0):
      m_currentEnemyHealth = (rand() % 46) + 30;

@@ -1,3 +1,2 @@
-﻿  Health.cpp
-C:\Temp\pointers\PointerTesting\Health.cpp(10,12): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
-  PointerTesting.vcxproj -> C:\Temp\pointers\PointerTesting\x64\Debug\PointerTesting.exe
+﻿  Event.cpp
+  PointerTesting.vcxproj -> E:\GitHub Clone Repository\Pointers-And-Classes-Player-Movement-On-Grid\PointerTesting\x64\Debug\PointerTesting.exe
